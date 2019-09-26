@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.asdasdsad.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\New.DESKTOP-I8ECE3K\\Downloads\\PenLightDancingLWRP-20190921\\PenLightDancingLWRP\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "asdasdsad [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "Penlight": [
+        {
+            "name": "Penlight",
+            "itemIndex": 1,
+            "getDate": "0",
+            "description": "The penlight you get on the first run of the game.",
+            "rarity": "Normal",
+            "_lock": true,
+            "use": true,
+            "RGB": {
+                "R": 255,
+                "G": 255,
+                "B": 0
+            }
+        },
+        {
+            "name": "Marble Penlight",
+            "itemIndex": 2,
+            "getDate": "0",
+            "description": "A bead-shaped penlight that gives off a bright glow.",
+            "rarity": "Rare",
+            "_lock": true,
+            "use": false,
+            "RGB": {
+                "R": 160,
+                "G": 255,
+                "B": 255
+            }
+        },
+        {
+            "name": "Star Guardian Penlight",
+            "itemIndex": 3,
+            "getDate": "0",
+            "description": "A magic wand-shaped penlight that gives off a starlight.",
+            "rarity": "rare",
+            "_lock": true,
+            "use": false,
+            "RGB": {
+                "R": 236,
+                "G": 83,
+                "B": 125
+            }
+        },
+        {
+            "name": "Link Penlight",
+            "itemIndex": 4,
+            "getDate": "0",
+            "description": "A penlight in which three rings combine to give a beautiful light.",
+            "rarity": "Rare",
+            "_lock": true,
+            "use": false,
+            "RGB": {
+                "R": 128,
+                "G": 255,
+                "B": 83
+            }
+        }
+    ]
+}

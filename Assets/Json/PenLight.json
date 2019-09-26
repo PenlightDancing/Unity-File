@@ -1,0 +1,60 @@
+{
+    "Penlight": [
+        {
+            "name": "",
+            "itemIndex": 0,
+            "getDate": "",
+            "description": "",
+            "rarity": "",
+            "_lock": false,
+            "use": false,
+            "RGB": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+            }
+        },
+        {
+            "name": "",
+            "itemIndex": 0,
+            "getDate": "",
+            "description": "",
+            "rarity": "",
+            "_lock": false,
+            "use": false,
+            "RGB": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+            }
+        },
+        {
+            "name": "",
+            "itemIndex": 0,
+            "getDate": "",
+            "description": "",
+            "rarity": "",
+            "_lock": false,
+            "use": false,
+            "RGB": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+            }
+        },
+        {
+            "name": "",
+            "itemIndex": 0,
+            "getDate": "",
+            "description": "",
+            "rarity": "",
+            "_lock": false,
+            "use": false,
+            "RGB": {
+                "R": 0,
+                "G": 0,
+                "B": 0
+            }
+        }
+    ]
+}

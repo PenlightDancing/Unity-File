@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: b42b5f9ecda39e54c8c637111af1bd0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Birth 001
+    100002: Box014
+    100004: Box015
+    100006: Box016
+    100008: Box017
+    100010: Box018
+    100012: Box019
+    100014: Box020
+    100016: Box021
+    100018: Box022
+    100020: Box023
+    100022: Box024
+    100024: Box025
+    100026: Box026
+    100028: Box027
+    100030: Box028
+    100032: Box029
+    100034: Box030
+    100036: Box031
+    100038: Cylinder001
+    100040: Cylinder022
+    100042: Cylinder023
+    100044: Cylinder024
+    100046: Cylinder025
+    100048: Cylinder032
+    100050: Display 001
+    100052: Display 002
+    100054: Event 001
+    100056: Event 002
+    100058: GeoSphere001
+    100060: light_beem019
+    100062: Object001
+    100064: Object039
+    100066: Object040
+    100068: Object041
+    100070: Object042
+    100072: Object043
+    100074: Object044
+    100076: Object045
+    100078: Object046
+    100080: Object047
+    100082: Object048
+    100084: Object049
+    100086: Object050
+    100088: Object051
+    100090: Object052
+    100092: Object053
+    100094: Object054
+    100096: Object055
+    100098: Object056
+    100100: Object057
+    100102: Object058
+    100104: Object059
+    100106: Object060
+    100108: Object061
+    100110: Object063
+    100112: Object064
+    100114: Object065
+    100116: Object066
+    100118: Object067
+    100120: Object068
+    100122: Object069
+    100124: Object070
+    100126: Object071
+    100128: Object072
+    100130: Object073
+    100132: Object074
+    100134: Object075
+    100136: Object076
+    100138: Object077
+    100140: Object078
+    100142: Object079
+    100144: Plane037
+    100146: Plane038
+    100148: Plane039
+    100150: Plane040
+    100152: Plane041
+    100154: Plane043
+    100156: Plane044
+    100158: Plane045
+    100160: Plane046
+    100162: Position Icon 001
+    100164: Render 001
+    100166: Rotation 001
+    100168: Shape 001
+    100170: Speed 001
+    100172: //RootNode
+    100174: Star001
+    100176: Torus001
+    100178: Torus002
+    100180: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100182: "\xA1\xA1\xD7\xFD\xD7\xFB 1"
+    100184: "\xD7\xFE\xD7\xFC"
+    100186: "\xD7\xFE\xD7\xFC 1"
+    400000: Birth 001
+    400002: Box014
+    400004: Box015
+    400006: Box016
+    400008: Box017
+    400010: Box018
+    400012: Box019
+    400014: Box020
+    400016: Box021
+    400018: Box022
+    400020: Box023
+    400022: Box024
+    400024: Box025
+    400026: Box026
+    400028: Box027
+    400030: Box028
+    400032: Box029
+    400034: Box030
+    400036: Box031
+    400038: Cylinder001
+    400040: Cylinder022
+    400042: Cylinder023
+    400044: Cylinder024
+    400046: Cylinder025
+    400048: Cylinder032
+    400050: Display 001
+    400052: Display 002
+    400054: Event 001
+    400056: Event 002
+    400058: GeoSphere001
+    400060: light_beem019
+    400062: Object001
+    400064: Object039
+    400066: Object040
+    400068: Object041
+    400070: Object042
+    400072: Object043
+    400074: Object044
+    400076: Object045
+    400078: Object046
+    400080: Object047
+    400082: Object048
+    400084: Object049
+    400086: Object050
+    400088: Object051
+    400090: Object052
+    400092: Object053
+    400094: Object054
+    400096: Object055
+    400098: Object056
+    400100: Object057
+    400102: Object058
+    400104: Object059
+    400106: Object060
+    400108: Object061
+    400110: Object063
+    400112: Object064
+    400114: Object065
+    400116: Object066
+    400118: Object067
+    400120: Object068
+    400122: Object069
+    400124: Object070
+    400126: Object071
+    400128: Object072
+    400130: Object073
+    400132: Object074
+    400134: Object075
+    400136: Object076
+    400138: Object077
+    400140: Object078
+    400142: Object079
+    400144: Plane037
+    400146: Plane038
+    400148: Plane039
+    400150: Plane040
+    400152: Plane041
+    400154: Plane043
+    400156: Plane044
+    400158: Plane045
+    400160: Plane046
+    400162: Position Icon 001
+    400164: Render 001
+    400166: Rotation 001
+    400168: Shape 001
+    400170: Speed 001
+    400172: //RootNode
+    400174: Star001
+    400176: Torus001
+    400178: Torus002
+    400180: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400182: "\xA1\xA1\xD7\xFD\xD7\xFB 1"
+    400184: "\xD7\xFE\xD7\xFC"
+    400186: "\xD7\xFE\xD7\xFC 1"
+    2100000: 'Material #0'
+    2100002: 02 - Default
+    2100004: 'Material #137'
+    2100006: 22 - Default
+    2100008: 21 - Default
+    2100010: 23 - Default
+    2100012: 19 - Default
+    2100014: No Name
+    2100016: 16 - Default
+    2100018: 'Material #153'
+    2300000: Box014
+    2300002: Box015
+    2300004: Box016
+    2300006: Box017
+    2300008: Box018
+    2300010: Box019
+    2300012: Box020
+    2300014: Box021
+    2300016: Box022
+    2300018: Box023
+    2300020: Box024
+    2300022: Box025
+    2300024: Box026
+    2300026: Box027
+    2300028: Box028
+    2300030: Box029
+    2300032: Box030
+    2300034: Box031
+    2300036: Cylinder001
+    2300038: Cylinder022
+    2300040: Cylinder023
+    2300042: Cylinder024
+    2300044: Cylinder025
+    2300046: Cylinder032
+    2300048: GeoSphere001
+    2300050: Object001
+    2300052: Object039
+    2300054: Object040
+    2300056: Object041
+    2300058: Object042
+    2300060: Object043
+    2300062: Object044
+    2300064: Object045
+    2300066: Object046
+    2300068: Object047
+    2300070: Object048
+    2300072: Object049
+    2300074: Object050
+    2300076: Object051
+    2300078: Object052
+    2300080: Object053
+    2300082: Object054
+    2300084: Object055
+    2300086: Object056
+    2300088: Object057
+    2300090: Object058
+    2300092: Object059
+    2300094: Object060
+    2300096: Object061
+    2300098: Object063
+    2300100: Object064
+    2300102: Object065
+    2300104: Object066
+    2300106: Object067
+    2300108: Object068
+    2300110: Object069
+    2300112: Object070
+    2300114: Object071
+    2300116: Object072
+    2300118: Object073
+    2300120: Object074
+    2300122: Object075
+    2300124: Object076
+    2300126: Object077
+    2300128: Object078
+    2300130: Object079
+    2300132: Plane037
+    2300134: Plane038
+    2300136: Plane039
+    2300138: Plane040
+    2300140: Plane041
+    2300142: Plane043
+    2300144: Plane044
+    2300146: Plane045
+    2300148: Plane046
+    2300150: Star001
+    2300152: Torus001
+    2300154: Torus002
+    3300000: Box014
+    3300002: Box015
+    3300004: Box016
+    3300006: Box017
+    3300008: Box018
+    3300010: Box019
+    3300012: Box020
+    3300014: Box021
+    3300016: Box022
+    3300018: Box023
+    3300020: Box024
+    3300022: Box025
+    3300024: Box026
+    3300026: Box027
+    3300028: Box028
+    3300030: Box029
+    3300032: Box030
+    3300034: Box031
+    3300036: Cylinder001
+    3300038: Cylinder022
+    3300040: Cylinder023
+    3300042: Cylinder024
+    3300044: Cylinder025
+    3300046: Cylinder032
+    3300048: GeoSphere001
+    3300050: Object001
+    3300052: Object039
+    3300054: Object040
+    3300056: Object041
+    3300058: Object042
+    3300060: Object043
+    3300062: Object044
+    3300064: Object045
+    3300066: Object046
+    3300068: Object047
+    3300070: Object048
+    3300072: Object049
+    3300074: Object050
+    3300076: Object051
+    3300078: Object052
+    3300080: Object053
+    3300082: Object054
+    3300084: Object055
+    3300086: Object056
+    3300088: Object057
+    3300090: Object058
+    3300092: Object059
+    3300094: Object060
+    3300096: Object061
+    3300098: Object063
+    3300100: Object064
+    3300102: Object065
+    3300104: Object066
+    3300106: Object067
+    3300108: Object068
+    3300110: Object069
+    3300112: Object070
+    3300114: Object071
+    3300116: Object072
+    3300118: Object073
+    3300120: Object074
+    3300122: Object075
+    3300124: Object076
+    3300126: Object077
+    3300128: Object078
+    3300130: Object079
+    3300132: Plane037
+    3300134: Plane038
+    3300136: Plane039
+    3300138: Plane040
+    3300140: Plane041
+    3300142: Plane043
+    3300144: Plane044
+    3300146: Plane045
+    3300148: Plane046
+    3300150: Star001
+    3300152: Torus001
+    3300154: Torus002
+    4300000: Box014
+    4300002: Cylinder001
+    4300004: Star001
+    4300006: GeoSphere001
+    4300008: Cylinder022
+    4300010: Cylinder023
+    4300012: Cylinder024
+    4300014: Cylinder025
+    4300016: Torus001
+    4300018: Cylinder032
+    4300020: Object001
+    4300022: Torus002
+    4300024: Plane037
+    4300026: Box015
+    4300028: Plane038
+    4300030: Plane039
+    4300032: Plane040
+    4300034: Plane041
+    4300036: Plane043
+    4300038: Object039
+    4300040: Object040
+    4300042: Object041
+    4300044: Object042
+    4300046: Object043
+    4300048: Object044
+    4300050: Object045
+    4300052: Object046
+    4300054: Object047
+    4300056: Object048
+    4300058: Object049
+    4300060: Object050
+    4300062: Object051
+    4300064: Object052
+    4300066: Object053
+    4300068: Object054
+    4300070: Object055
+    4300072: Object056
+    4300074: Object057
+    4300076: Object058
+    4300078: Object059
+    4300080: Object060
+    4300082: Object061
+    4300084: Plane044
+    4300086: Plane045
+    4300088: Plane046
+    4300090: Object063
+    4300092: Box016
+    4300094: Object064
+    4300096: Box017
+    4300098: Object065
+    4300100: Box018
+    4300102: Object066
+    4300104: Box019
+    4300106: Object067
+    4300108: Box020
+    4300110: Object068
+    4300112: Object069
+    4300114: Object070
+    4300116: Object071
+    4300118: Box021
+    4300120: Box022
+    4300122: Box023
+    4300124: Object072
+    4300126: Object073
+    4300128: Object074
+    4300130: Object075
+    4300132: Box024
+    4300134: Box025
+    4300136: Box026
+    4300138: Box027
+    4300140: Object076
+    4300142: Object077
+    4300144: Object078
+    4300146: Object079
+    4300148: Box028
+    4300150: Box029
+    4300152: Box030
+    4300154: Box031
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
